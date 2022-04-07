@@ -1,4 +1,4 @@
-l{
+}
     "name": "AMMU SECHI BY MELLO EFX",
     "description": "AMMU-SECHI- - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
@@ -229,4 +229,4 @@ l{
     "buildpacks": [{
       "url": "heroku-community/apt"
       }]
-  
+  }
